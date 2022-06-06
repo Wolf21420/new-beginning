@@ -1,0 +1,85 @@
+body{
+	margin: 0 auto;
+	background-image: linear-gradient(darkgoldenrod, whitesmoke);
+}
+.table{
+	border: 2px solid black;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h3{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px;
+}
+
+p{
+	font-size: 20px;
+}
+
+.nav_bar{
+	background: rgba(245, 169, 39, 0.8);
+	width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	border-bottom: 5px solid black;
+}
+
+.nav_ul{
+	text-transform: uppercase;
+	font-size: 18px;
+	margin: 40px auto;
+}
+
+.main_div{
+	width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+
+.table_bar{
+	background: rgba(245, 169, 39, 0.8);
+	margin: 0 auto;
+	border: 2px solid black;
+	text-align: center;
+	width: 460px;
+	padding: 0 20px;
+}
+
+.table_bar1{
+	background: linear-gradient(darkorange, whitesmoke);
+	margin: 0 auto;
+	border: 2px solid black;
+	text-align: center;
+	width: 500px;
+	padding: 0 20px;
+}
+
+.nauc_radovi{
+	width: 1200px;
+	margin: 20px auto;
+	padding-top: 50px;
+}
+
+img{
+	display: inline-block;
+    margin: 0 27px;
+    float: left;
+    padding-bottom: 70px;
+    padding-top: 50px;
+}
+
+.spomen{
+	background: rgba(245, 169, 39, 0.8); 
+	text-align: center;
+	width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	border-bottom: 5px solid black;
+}
+
+.spomen p{
+	font-size: 15px;
+}
